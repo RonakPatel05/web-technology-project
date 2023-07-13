@@ -1,0 +1,34 @@
+.flex{
+    display: flex;
+}
+.items-center{
+    align-items: center;
+}
+
+.justify-center{
+    justify-content: center;
+}
+.uppercase{
+    text-transform: uppercase;
+}
+.italic{
+   font-style: italic;
+   font-weight: bolder;
+}
+.space-between{
+    justify-content:space-between;
+}
+.right flex{
+    font-style: italic;
+    font-weight: bolder;
+ }
+
+ .Wishlist{
+    margin-left: 12px;
+    margin-top: 16px;
+    margin-right: 12px;
+ }
+
+ .semibold{
+    font-weight: bolder;
+ }
